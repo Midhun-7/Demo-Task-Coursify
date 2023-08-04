@@ -1,1 +1,2 @@
-A simple landing page - first designed in figma and then coded in React. Hope you like it.
+Demo Task: A simple landing page for a recruitment startup coded using React. 
+Hope you like it.
